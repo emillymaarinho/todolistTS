@@ -1,3 +1,3 @@
-# TO DO LIST
+<h1 align="center"> TO DO LIST </h1>
 
-Nesta aplicação foi desenvolvido uma simples TODO LIST usando as tecnologias React e TypeScript.
+<p align="center">Nesta aplicação foi desenvolvido uma simples TODO LIST usando as tecnologias React e TypeScript. </p>
